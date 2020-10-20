@@ -1,0 +1,21 @@
+{
+  "name": "Glass",
+  "year": 2019,
+  "runtime": 129,
+  "categories": [
+    "drama",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2019-01-17",
+  "director": "M. Night Shyamalan",
+  "writer": [
+    "M. Night Shyamalan",
+  ],
+  "actors": [
+    "James McAvoy",
+    "Bruce Willis",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "After pursuing Kevin Wendell Crumb and the multiple identities that reside within, David Dunn finds himself locked in a mental hospital alongside his archenemy, Elijah Price. The trio must now contend with a psychiatrist, who is out to prove they do not actually possess superhuman abilities."
+}
